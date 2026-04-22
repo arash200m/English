@@ -1,7 +1,7 @@
 # English
 
 
-| Vocabulary | Translate |                | Vocabulary | Translate | |    |     |
+| Vocabulary | Translate |                | Vocabulary | Translate | | Vocabulary   | Translate    |
 |:---        |     ---:  |:---:|      :---        |     ---:  |  :---: |  :---  |  ---:    |
 | immersed   |غوطه‌ور      |                | immersed   |غوطه‌ور      | | AI-powered    |  مجهز به هوش مصنوعی   |
 | unprecedented   |بی‌سابقه, بی نظیر      |   |    |     |
