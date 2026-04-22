@@ -4,6 +4,7 @@
 | Vocabulary | Translate |
 |:---        |     ---:  |
 | immersed   |غوطه‌ور      |
+| unprecedented   |بی‌سابقه, بی نظیر      |
 
 
 | Syntax      | Description | Test Text     |
