@@ -12,9 +12,9 @@ comment
 
 ### Table of Content   
 
-- [Prerequisites](#Prerequisites) 
-- [References](#References "This is the tooltip message!")   
-- [First Title](#First-Title)   
+- [Autophagy](#Autophagy) 
+- [Add title here](#add-title-here)   
+- [Add title here](#add-title-here)   
 - [Add title here](#add-title-here)   
 - [Add title here](#add-title-here)   
 - [Add title here](#add-title-here)   
@@ -23,10 +23,8 @@ comment
 <hr>
 
 
-### References
-
-
-
+#### Autophagy
+Autophagy ("self-eating") is a natural cellular detoxification and recycling process that occurs during fasting, where the body breaks down damaged cells and proteins to renew itself. Fasting is the most effective way to trigger this process, as it lowers insulin levels and forces cells to find energy by cleaning up waste material.
 
 
 
