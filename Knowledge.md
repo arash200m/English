@@ -22,36 +22,11 @@ comment
 
 <hr>
 
-### Prerequisites
-1. C++
-2. Java
 
 ### References
-1. [fastapi.tiangolo.com](https://fastapi.tiangolo.com/)
-1. Second ordered list
-1. Third ordered list
-
-<hr>
-
-# First Title
 
 
-## Second Title
 
-
-### Third  Title
-
-<br />  
-
-> :bulb: **Tip:** Markdown was created in 2004 by John Gruber
-
-<br />
-
-```py
-
-Python Code Place
-
-```
 
 
 
