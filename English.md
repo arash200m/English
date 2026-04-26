@@ -4,7 +4,7 @@
 |Vocabulary|Translate||Sentence|
 |:---|---:|:---:|:---|
 | immersed|غرق شدن,غوطه‌ور||If you burn your hand, immediately immerse it in cold water.| 
-|  |  |I was so immersed in the movie that I lost track of time.|  |  
+|  |  ||I was so immersed in the movie that I lost track of time.|  
 |mitigate|کاهش دادن ,خرد کردن||    |     
 | discrepancy|اختلاف, تفاوت||    |    
 |Overlook|چشم‌پوشی, غفلت کردن||    |  
