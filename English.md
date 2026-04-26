@@ -13,7 +13,7 @@
 |unprecedented|بی‌سابقه, بی نظیر ||    |   
 |AI-powered|مجهز به هوش مصنوعی||    | 
 |from the ground up|از پایه||  |  
-|  |  ||  | 
+|bootstrap|خود راه انداز||  | 
 |  |  ||  | 
 |  |  ||  | 
 |  |  ||  | 
