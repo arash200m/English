@@ -1,15 +1,16 @@
 # English
 
 
-|Vocabulary|Translate||Vocabulary|Translate ||Vocabulary| Translate|
-|:---|---:|:---:|:---|---:|:---:|:---|---:|
-| immersed|غوطه‌ور|| unprecedented|بی‌سابقه, بی نظیر| |AI-powered|مجهز به هوش مصنوعی|
-|mitigate|کاهش دادن ,خرد کردن||    |     |
-| discrepancy|اختلاف, تفاوت||    |     |
-|Overlook|چشم‌پوشی, غفلت کردن||    |     |
-|   |  ||    |     |
-|   |  ||    |     |
-|   |  ||    |     |
+|Vocabulary|Translate||Sentence|
+|:---|---:|:---:|:---|
+| immersed|غرق شدن,غوطه‌ور||If you burn your hand, immediately immerse it in cold water.| 
+|  |  ||  |  
+|mitigate|کاهش دادن ,خرد کردن||    |     
+| discrepancy|اختلاف, تفاوت||    |    
+|Overlook|چشم‌پوشی, غفلت کردن||    |  
+|unprecedented|بی‌سابقه, بی نظیر ||    |   
+|AI-powered|مجهز به هوش مصنوعی||    | 
+|  |  ||  |  
 
 | Sentence | Translate |
 |:---        |     ---:  |
