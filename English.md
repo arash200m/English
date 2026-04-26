@@ -17,7 +17,7 @@
 |  Hi, I just wanted to let you know that this is a new number for me and I don't know [Previous Owner]. You might have an old contact saved!"  |     |
 |  I'm sorry, I just recently got this phone number. I think the person you're trying to reach no longer has this number. |     |
 |  I’ve just been assigned this number.  |     |
-|  you have to flip through every single page of the book  |   باید تک تک صفحات کتاب را ورق بزنید  |
+|  you have to **flip through** every single page of the book  |   باید تک تک صفحات کتاب را ورق بزنید  |
 |    |     |
 |    |     |
 
