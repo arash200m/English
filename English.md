@@ -5,12 +5,16 @@
 |:---|---:|:---:|:---|
 | immersed|غرق شدن,غوطه‌ور||If you burn your hand, immediately immerse it in cold water.| 
 |  |  ||I was so immersed in the movie that I lost track of time.|  
+|  |  ||The team is totally immersed in learning the new system.|  
+|  |  ||The submarine remained immersed for several hours.|  
 |mitigate|کاهش دادن ,خرد کردن||    |     
 | discrepancy|اختلاف, تفاوت||    |    
 |Overlook|چشم‌پوشی, غفلت کردن||    |  
 |unprecedented|بی‌سابقه, بی نظیر ||    |   
 |AI-powered|مجهز به هوش مصنوعی||    | 
 |  |  ||  |  
+
+
 
 | Sentence | Translate |
 |:---        |     ---:  |
