@@ -15,7 +15,7 @@
 |from the ground up|از پایه||  |  
 |bootstrap|خود راه انداز||  | 
 |pull this over a bit|این را کمی کش بده||  | 
-|  |  ||  | 
+|let me open this up and go ahead|  ||  | 
 |  |  ||  | 
 |  |  ||  | 
 |  |  ||  | 
