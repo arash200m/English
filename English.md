@@ -22,5 +22,24 @@
 |    |     |
 
 
+<hr />
 
+#### take for granted
+
+take for granted
+"Take for granted" means failing to properly appreciate or value someone or something due to familiarity, or assuming something is true without questioning it. It often implies expecting someone’s help or a resource to always be available. 
+
+Usage Examples:
+Lack of Appreciation: "Many people take clean water for granted until a drought occurs".
+Assuming Truth: "I took it for granted that the meeting was canceled".
+Undervaluing People: "I'm tired of being taken for granted at work".
+Contextual Example: "We often take our freedom for granted". 
+
+Synonyms & Related Phrases:
+Assume / Take as a given
+Underappreciate / Undervalue
+Take for a certainty
+Overlook
+
+<hr />
 
