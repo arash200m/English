@@ -8,7 +8,7 @@
 |13|  |  ||  | 
 |12|  |  ||  | 
 |11|  |  ||  | 
-|10|  |  ||  |
+|10|essence|جوهر ، ذات||At its essence|
 |9|multifaceted|چندوجهی , having many facets.||highlighting the multifaceted reactions we have| 
 |8|web|شبکه  ||the complex web of human emotions| 
 |7|facet|جنبه||having many facets.| 
