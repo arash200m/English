@@ -18,8 +18,8 @@
 |let me open this up and go ahead|  ||  | 
 |Now since I used UV init|  ||  | 
 |dummy data|داده‌های ساختگی||  | 
-|  |  ||  | 
-|  |  ||  | 
+|multifaceted|چندوجهی||highlighting the multifaceted reactions we have| 
+|web|شبکه  ||the complex web of human emotions| 
 |  |  ||  | 
 |  |  ||  | 
 |  |  ||  | 
