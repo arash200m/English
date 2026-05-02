@@ -15,7 +15,7 @@
 |repertoire|مجموعه عملیات ، مجموعه کارها||a standard part of our emotional repertoire.| 
 |repertoire|||Def: a stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.|
 |problematic|مشکل ساز||it becomes problematic| 
-|outburst|طغیان||particularly when these outbursts are disproportionate| 
+|outburst| فوران، طغیان||particularly when these outbursts are disproportionate| 
 |disproportionate|نا متناسب، بی تناسب||  | 
 |strained relationships|روابط پرتنش||leading to strained relationships and professional challenges.| 
 | immersed|غرق شدن,غوطه‌ور||If you burn your hand, immediately immerse it in cold water.| 
