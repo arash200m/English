@@ -23,8 +23,25 @@
 |facet|جنبه||having many facets.| 
 |repertoire|مجموعه عملیات ، مجموعه کارها||a standard part of our emotional repertoire.| 
 |repertoire|||Def: a stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.|
+|problematic|مشکل ساز||it becomes problematic| 
 |  |  ||  | 
-
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
+|  |  ||  | 
 
 | Sentence | Translate |
 |:---        |     ---:  |
