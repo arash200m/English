@@ -21,7 +21,7 @@
 |multifaceted|چندوجهی , having many facets.||highlighting the multifaceted reactions we have| 
 |web|شبکه  ||the complex web of human emotions| 
 |facet|جنبه||having many facets.| 
-|  |  ||  | 
+|repertoire| مجموعه عملیات ، مجموعه کارها||a standard part of our emotional repertoire.| 
 |  |  ||  | 
 
 
