@@ -7,7 +7,7 @@
 |14|  |  ||  | 
 |13|  |  ||  | 
 |12|  |  ||  | 
-|11|  |  ||  | 
+|11|etymology|ریشه‌شناسی لغات||as suggested by etymology--the word "anger" itself stems from a Middle English word that translates to "sorrow."| 
 |10|essence|جوهر ، ذات||At its essence|
 |9|multifaceted|چندوجهی , having many facets.||highlighting the multifaceted reactions we have| 
 |8|web|شبکه  ||the complex web of human emotions| 
