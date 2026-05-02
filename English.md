@@ -4,7 +4,7 @@
 |Row|Vocabulary|Translate||Sample Sentence  or  Definition (Def)|
 |:---:|:---|---:|:---:|:---|
 |15|  |  ||  | 
-|14|  |  ||  | 
+|14|infuriate|خشمگین/عصبانی کردن||what infuriates one person might go entirely unnoticed by another.| 
 |13|subjective|ذهنی، دلی، ویژگی شخصی||This reflects the deeply personal and subjective nature of anger| 
 |12|stems|گرفته شده، اقتباص شده||  | 
 |11|etymology|ریشه‌شناسی لغات||as suggested by etymology--the word "anger" itself stems from a Middle English word that translates to "sorrow."| 
