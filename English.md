@@ -1,23 +1,32 @@
 # English
 
 
-|Vocabulary|Translate||Sample Sentence  or  Definition (Def)|
-|:---|---:|:---:|:---|
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  |
-|multifaceted|چندوجهی , having many facets.||highlighting the multifaceted reactions we have| 
-|web|شبکه  ||the complex web of human emotions| 
-|facet|جنبه||having many facets.| 
-|repertoire|مجموعه عملیات ، مجموعه کارها||a standard part of our emotional repertoire.| 
-|repertoire|||Def: a stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.|
-|problematic|مشکل ساز||it becomes problematic| 
-|outburst| فوران، طغیان||particularly when these outbursts are disproportionate| 
-|disproportionate|نا متناسب، بی تناسب||  | 
-|strained relationships|روابط پرتنش||leading to strained relationships and professional challenges.| 
+|Row|Vocabulary|Translate||Sample Sentence  or  Definition (Def)|
+|:---:|:---|---:|:---:|:---|
+|20|  |  ||  | 
+|19|  |  ||  | 
+|18|  |  ||  | 
+|17|  |  ||  | 
+|16|  |  ||  | 
+|15|  |  ||  | 
+|14|  |  ||  | 
+|13|  |  ||  | 
+|12|  |  ||  | 
+|11|  |  ||  | 
+|10|  |  ||  |
+|9|multifaceted|چندوجهی , having many facets.||highlighting the multifaceted reactions we have| 
+|8|web|شبکه  ||the complex web of human emotions| 
+|7|facet|جنبه||having many facets.| 
+|6|repertoire|مجموعه عملیات ، مجموعه کارها||a standard part of our emotional repertoire.| 
+|5|repertoire|||Def: a stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.|
+|4|problematic|مشکل ساز||it becomes problematic| 
+|3|outburst| فوران، طغیان||particularly when these outbursts are disproportionate| 
+|2|disproportionate|نا متناسب، بی تناسب||  | 
+|1|strained relationships|روابط پرتنش||leading to strained relationships and professional challenges.| 
+
+
+|Row|Vocabulary|Translate||Sample Sentence  or  Definition (Def)|
+|:---:|:---|---:|:---:|:---| 
 | immersed|غرق شدن,غوطه‌ور||If you burn your hand, immediately immerse it in cold water.| 
 |  |  ||I was so immersed in the movie that I lost track of time.|  
 |  |  ||The team is totally immersed in learning the new system.|  
@@ -33,15 +42,30 @@
 |let me open this up and go ahead|  ||  | 
 |Now since I used UV init|  ||  | 
 |dummy data|داده‌های ساختگی||  | 
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  | 
-|  |  ||  | 
+
+|Row|Vocabulary|Translate||Sample Sentence  or  Definition (Def)|
+|:---:|:---|---:|:---:|:---|
+|1|  |  ||  | 
+|2|  |  ||  | 
+|3|  |  ||  | 
+|4|  |  ||  | 
+|5|  |  ||  | 
+|6|  |  ||  | 
+|7|  |  ||  | 
+|8|  |  ||  | 
+|9|  |  ||  | 
+|10|  |  ||  | 
+|11|  |  ||  | 
+|12|  |  ||  | 
+|13|  |  ||  | 
+|14|  |  ||  | 
+|15|  |  ||  | 
+|16|  |  ||  | 
+|17|  |  ||  | 
+|18|  |  ||  | 
+|19|  |  ||  | 
+|20|  |  ||  | 
+
 
 | Sentence | Translate |
 |:---        |     ---:  |
@@ -74,3 +98,26 @@ Synonyms & Related Phrases:
 
 <hr />
 
+
+|Row|Vocabulary|Translate||Sample Sentence  or  Definition (Def)|
+|:---:|:---|---:|:---:|:---|
+|1|  |  ||  | 
+|2|  |  ||  | 
+|3|  |  ||  | 
+|4|  |  ||  | 
+|5|  |  ||  | 
+|6|  |  ||  | 
+|7|  |  ||  | 
+|8|  |  ||  | 
+|9|  |  ||  | 
+|10|  |  ||  | 
+|11|  |  ||  | 
+|12|  |  ||  | 
+|13|  |  ||  | 
+|14|  |  ||  | 
+|15|  |  ||  | 
+|16|  |  ||  | 
+|17|  |  ||  | 
+|18|  |  ||  | 
+|19|  |  ||  | 
+|20|  |  ||  |
