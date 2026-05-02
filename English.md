@@ -1,7 +1,7 @@
 # English
 
 
-|Vocabulary|Translate||Sample Sentence|
+|Vocabulary|Translate||Sample Sentence  or  Definition (Def)|
 |:---|---:|:---:|:---|
 | immersed|غرق شدن,غوطه‌ور||If you burn your hand, immediately immerse it in cold water.| 
 |  |  ||I was so immersed in the movie that I lost track of time.|  
@@ -22,7 +22,7 @@
 |web|شبکه  ||the complex web of human emotions| 
 |facet|جنبه||having many facets.| 
 |repertoire|مجموعه عملیات ، مجموعه کارها||a standard part of our emotional repertoire.| 
-|repertoire|||a stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.|
+|repertoire|||Def: a stock of plays, dances, or pieces that a company or a performer knows or is prepared to perform.|
 |  |  ||  | 
 
 
